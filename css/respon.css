@@ -1,0 +1,358 @@
+@media (max-width: 992px){
+
+.baner-main{
+	padding: 120px 0px;
+}
+.ban-tex{
+	padding-top: 170px;
+	
+}
+.baner .ban-tex h1{
+	font-size: 45px;
+}
+.baner .ban-tex h1 span{
+	font-size: 45px;
+}
+.baner .ban-tex h5{
+	font-size: 35px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+.baner .ban-tex h5 span{
+	font-size: 35px;
+}
+.baner .ban-tex h5 i{
+	font-size: 30px;	
+}
+
+.ban-tex .comon-btn a span{
+	
+	font-size: 14px;
+	letter-spacing: 0px;
+}
+ a .liquid{
+	width: 160px;
+}
+.arrow{
+	top: 470px;
+	left: 80px;
+	scroll-behavior: smooth;
+}
+
+.item img{
+	width: 80px;
+	height: 80px;
+	border:1px dotted blue;
+	border-radius: 30px;
+	padding: 5px 10px;
+	filter: grayscale(0%);
+	transition: all 0.3s;
+}
+.counter-box p{
+	font-size: 20px;
+}
+.counter-box .counter{
+	font-size: 50px;
+	margin-top: 25px;
+	margin-bottom: 8px;
+}
+.counter-box{
+	margin-bottom: 40px;
+}
+.last-child{
+	margin-bottom: -10px;
+}
+
+.mb-30{
+	margin-bottom: 140px;
+}
+
+.item-b{
+align-items: center;
+}
+.item-b ul li{
+	background: #eee;
+	padding: 5px 10px;
+	margin-left: 12px;
+	letter-spacing: 0px;
+	border-radius: 10px;
+	cursor: pointer;
+	transition: all 0.3s;
+	font-size: 16px;
+}
+.product .img-fluid22{
+	height: 1000px;
+	width: 100%;
+	border-radius: 10px;
+	padding: 10px;
+	background-color:rgba(0,0,0, .5);
+	transform: scale(1);
+	transition: all 0.4s;
+}
+.product{
+	margin-bottom: 40px;
+}
+
+.about-container .comon-btn1{
+	text-align: center;
+}
+.Contact-form .comon-btn1{
+text-align: center;	
+}
+.con-icon {
+	display: flex;
+	margin-top: 25px;
+
+}
+.add-con{
+	
+	background-color: red;
+	padding: 30px;
+	width: 80%;
+	margin:auto;
+	margin-top: 30px;
+	height: 350px;
+	color: #fff;
+	margin-bottom: 30px;
+}
+.tesi-main{
+	width: 80%;
+	margin: auto;
+	text-align: center;
+	border-radius: 10px;
+}
+#testimonial{
+	background: red;
+	border-radius: 10px;
+}
+}
+/* end 992 --*/
+/* strt 1192 --*/
+@media (max-width: 1192px){
+	.baner-main{
+	padding-top: 40px;
+	padding-bottom: 60px;
+}
+.baner .ban-tex h1{
+	font-size: 45px;
+}
+.baner .ban-tex h1 span{
+	font-size: 45px;
+}
+.baner .ban-tex h5{
+	font-size: 35px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+.baner .ban-tex h5 span{
+	font-size: 35px;
+}
+.baner .ban-tex h5 i{
+	font-size: 30px;	
+}
+.mb-30{
+	margin-bottom: 140px;
+}
+}
+
+/* phon --*/
+@media (max-width: 576px){
+	.baner-main{
+	padding: 150px 0px;
+}
+.ban-tex{
+	padding-top: 160px;
+	
+}
+.item img{
+	width: 80px;
+	height: 80px;
+	border:1px dotted blue;
+	border-radius: 30px;
+	padding: 5px 10px;
+	filter: grayscale(0%);
+	transition: all 0.3s;
+}
+.counter-box p{
+	font-size: 20px;
+}
+.counter-box .counter{
+	font-size: 50px;
+	margin-top: 25px;
+	margin-bottom: 8px;
+}
+.counter-box{
+	margin-bottom: 40px;
+}
+.last-child{
+	margin-bottom: -10px;
+}
+
+.ser-box{
+	margin-bottom: 100px;
+}
+
+.item-b{
+text-align: center;
+}
+.product .img-fluid22{
+	height: 1000px;
+	width: 100%;
+	border-radius: 10px;
+	padding: 10px;
+	background-color:rgba(0,0,0, .5);
+	transform: scale(1);
+	transition: all 0.4s;
+}
+.product{
+	margin-bottom: 40px;
+}
+
+.about-container .comon-btn1{
+	text-align: center;
+}
+.Contact-form .comon-btn1{
+text-align: center;	
+}
+.con-icon {
+	display: flex;
+	margin-top: 25px;
+
+}
+.add-con{
+	
+	background-color: red;
+	padding: 30px;
+	width: 80%;
+	margin:auto;
+	margin-top: 30px;
+	height: 350px;
+	color: #fff;
+	margin-bottom: 30px;
+}
+.tesi-main{
+	width: 80%;
+	margin: auto;
+	text-align: center;
+	border-radius: 10px;
+}
+#testimonial{
+	background: red;
+	border-radius: 10px;
+}
+}
+/* end phon */
+
+@media (max-width: 768px){
+	.baner-main{
+	padding-top: 120px;
+	padding-bottom: 100px;
+}
+.ban-tex{
+	padding-top: 120px;
+	
+}
+.arrow{
+	top: 390px;
+	left: 60px;
+}
+.item img{
+	width: 80px;
+	height: 80px;
+	border:1px dotted blue;
+	border-radius: 30px;
+	padding: 5px 10px;
+	filter: grayscale(0%);
+	transition: all 0.3s;
+}
+.baner .ban-tex h1{
+	font-size: 35px;
+}
+.baner .ban-tex h1 span{
+	font-size: 35px;
+}
+.baner .ban-tex h5{
+	font-size: 30px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+.baner .ban-tex h5 span{
+	font-size: 30px;
+}
+.baner .ban-tex h5 i{
+	font-size: 25px;	
+}
+.counter-box p{
+	font-size: 16px;
+}
+.counter-box .counter{
+	font-size: 50px;
+	margin-top: 25px;
+	margin-bottom: 8px;
+}
+.counter-box{
+	margin-bottom: 30px;
+}
+.last-child{
+	margin-bottom: -10px;
+}
+
+.ser-box{
+	margin-bottom: 100px;
+}
+
+.item-b{
+margin-left: -25px;
+}
+.product .img-fluid22{
+	height: 1000px;
+	width: 100%;
+	border-radius: 10px;
+	padding: 10px;
+	background-color:rgba(0,0,0, .5);
+	transform: scale(1);
+	transition: all 0.4s;
+}
+.product{
+	margin-bottom: 40px;
+}
+
+.about-container .comon-btn1{
+	text-align: center;
+}
+.Contact-form .comon-btn1{
+text-align: center;	
+}
+.con-icon {
+	display: flex;
+	margin-top: 25px;
+
+}
+.add-con{
+	
+	background-color: red;
+	padding: 30px;
+	width: 80%;
+	margin:auto;
+	margin-top: 30px;
+	height: 350px;
+	color: #fff;
+	margin-bottom: 30px;
+}
+.tesi-main{
+	width: 80%;
+	margin: auto;
+	text-align: center;
+	border-radius: 10px;
+}
+#testimonial{
+	background: red;
+	border-radius: 10px;
+}
+.conbaton-container h1{
+	font-size: 30px;
+}
+}
+
+
+
